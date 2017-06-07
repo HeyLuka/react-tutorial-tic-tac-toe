@@ -1,1 +1,1 @@
-### This project is a simple game tutorial from official React site. [tic-tac-tie]
+# React tutorial tic-tac-toe game
